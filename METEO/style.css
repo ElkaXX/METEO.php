@@ -1,0 +1,59 @@
+
+button{
+    background-color:thistle;
+    margin: 10px;
+    height: auto;
+    width: 90px;
+    font-family: cursive;
+    font-size: 16px;
+    justify-items: center;
+
+    
+   
+}
+.navigation{
+display: flex;
+align-items: center;
+
+}
+
+body img{
+    height: 800px;
+    width: 800px;
+    display: flex;
+    justify-content: center;
+   
+ }
+#social img{
+    height: 40px;
+    width: 40px;
+}
+div#NORD div {
+    transform: translate(400px,500px);
+    color:blue;
+    font-size: 30px;
+}
+div#SUD div {
+    transform: translate(400px,820px);
+    color:crimson;
+    font-size: 30px;
+   
+}
+div#OUEST div {
+    transform: translate(600px,415px);
+    color:green;
+    font-size: 30px;
+}
+div#EST div {
+    transform: translate(170px,310px);
+    color:yellow;
+    font-size: 30px;
+}
+p{
+    color: blue;
+}
+
+
+
+
+
